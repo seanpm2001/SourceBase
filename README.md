@@ -152,15 +152,25 @@ Version 1.15 (Origin: April 7th 2020)
 
 Currently, I am the only contributer.
 
-> 1. [seanpm2001](https://github.com/seanpm2001/) - 61 Commits (As of May 28th 2020 at 5:12 pm)
+> 1. [seanpm2001](https://github.com/seanpm2001/) - 68 Commits (As of Thursday, May 28th 2020 at 5:34 pm)
 
 > 2. No other contributers at this time.
 
 ---
 
+**`Developer note:`**
+
+`Include the following features in the next updates (1.16) description:`
+
+`> * Project Wiki`
+
+`> * ReadMe update`
+
+`> * The new templates to be added`
+
 About ReadMe file
 -----------
 
-ReadMe version: 5 (Thursday, May 28th 2020 at 5:12 pm)
+ReadMe version: 6 (Thursday, May 28th 2020 at 5:34 pm)
 
 ---
