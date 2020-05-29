@@ -152,7 +152,7 @@ Version 1.15 (Origin: April 7th 2020)
 
 Currently, I am the only contributer.
 
-> 1. [seanpm2001](https://github.com/seanpm2001/) - 50 Commits (As of May 28th 2020 at 5:11 pm)
+> 1. [seanpm2001](https://github.com/seanpm2001/) - 61 Commits (As of May 28th 2020 at 5:12 pm)
 
 > 2. No other contributers at this time.
 
@@ -161,6 +161,6 @@ Currently, I am the only contributer.
 About ReadMe file
 -----------
 
-ReadMe version: 4 (Thursday, May 28th 2020 at 5:11 pm)
+ReadMe version: 5 (Thursday, May 28th 2020 at 5:12 pm)
 
 ---
