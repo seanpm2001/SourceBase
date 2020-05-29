@@ -27,6 +27,40 @@ SourceBase PHP is the PHP base of a web page. It is an easy to modify template.
 
 ---
 
+# SourceBase Ruby
+
+SourceBase Ruby is the Ruby base of a web page. It is an easy to modify template.
+
+---
+
+# SourceBase XHTML
+
+SourceBase XHTML is the XHTML base of a web page. It is an easy to modify template. It is mostly a work in progress. No functional version has been created yet
+
+---
+
+# SourceBase brand - web standard T-x
+
+SourceBase brand - web standard T-x is a fork of SourceBase HTML used to create web pages even faster for certain projects that don't need certain specific elements.
+
+---
+
+# Other stylesheets
+
+To give users a better choice, 2 other FOSS stylesheets were included. They are:
+
+> 1. W3CSS_4.13 - A stylesheet created by Refnes data
+
+> 2. Cloudflare Fontawesome 4.7.0 - A stylesheet created by CloudFlare
+
+---
+
+# Home page
+
+The home page for this project is included in the repository. These pages don't entirely work, as the brand had to be censored. If you were to replace all instances of [brand] and [BRAND] with the correct file name of the new version, it would work.
+
+The homepage is split into 10 snapshots. The homepage also hosts all versions of all SourceBase templates.
+
 # Version history
 
 Version 1.00 (Origin: August 9th 2019)
@@ -118,7 +152,7 @@ Version 1.15 (Origin: April 7th 2020)
 
 Currently, I am the only contributer.
 
-> 1. [seanpm2001](https://github.com/seanpm2001/) - 26 Commits (As of May 28th 2020 at 3:59 pm)
+> 1. [seanpm2001](https://github.com/seanpm2001/) - 50 Commits (As of May 28th 2020 at 5:11 pm)
 
 > 2. No other contributers at this time.
 
@@ -127,6 +161,6 @@ Currently, I am the only contributer.
 About ReadMe file
 -----------
 
-ReadMe version: 3 (Thursday, May 28th 2020 at 3:59 pm)
+ReadMe version: 4 (Thursday, May 28th 2020 at 5:11 pm)
 
 ---
